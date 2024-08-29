@@ -1,0 +1,5 @@
+fun main() {
+    /**
+     * Lambda expressions
+     */
+}
