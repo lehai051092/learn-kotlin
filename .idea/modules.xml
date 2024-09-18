@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/control-flow/control-flow.iml" />
       <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-kotlin.iml" filepath="$PROJECT_DIR$/.idea/learn-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/null-safety/null-safety.iml" filepath="$PROJECT_DIR$/null-safety/null-safety.iml" />
       <module fileurl="file://$PROJECT_DIR$/welcome/welcome.iml" filepath="$PROJECT_DIR$/welcome/welcome.iml" />
     </modules>
   </component>
