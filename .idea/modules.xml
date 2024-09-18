@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-types/basic-types.iml" filepath="$PROJECT_DIR$/basic-types/basic-types.iml" />
-      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/control-flow/control-flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/welcome/welcome.iml" filepath="$PROJECT_DIR$/welcome/welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-kotlin.iml" filepath="$PROJECT_DIR$/.idea/learn-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/welcome/welcome.iml" filepath="$PROJECT_DIR$/welcome/welcome.iml" />
     </modules>
   </component>
 </project>
